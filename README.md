@@ -38,6 +38,7 @@ docker exec $(docker ps -a | grep jenkins | awk '{print $1}') bash -c 'cat /var/
 Creation des pipeline avec mon compte github
 lien du projet testé et les fichiers d'installations :
 https://github.com/youngerdiarrandiaye/jenkins_docker_vagrant.git
+
 https://github.com/youngerdiarrandiaye/e-banking-spring-backend.git
 
 ![pipeline tste](https://github.com/youngerdiarrandiaye/jenkins_docker_vagrant/assets/122989242/1aee4307-dde9-4bfa-9f08-603487d733e3)
