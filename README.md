@@ -43,3 +43,7 @@ https://github.com/youngerdiarrandiaye/e-banking-spring-backend.git
 
 ![pipeline tste](https://github.com/youngerdiarrandiaye/jenkins_docker_vagrant/assets/122989242/1aee4307-dde9-4bfa-9f08-603487d733e3)
 ![test pip](https://github.com/youngerdiarrandiaye/jenkins_docker_vagrant/assets/122989242/44a03d61-754c-4b40-9bb8-db6579e41258)
+#pipeline est ok
+![pieline](https://github.com/youngerdiarrandiaye/jenkins_docker_vagrant/assets/122989242/06c43149-693e-40d3-a167-06eb7a568d1f)
+
+
